@@ -27,14 +27,17 @@ It simulates real-world Applicant Tracking Systems (ATS) used by companies.
 ✨ Fast and lightweight  
 
 ---
-
-## 🧠 Tech Stack  
+## ⚙️ Project Workflow  
 
 ```text
-Language     : Python
-NLP Engine   : spaCy
-UI Framework : Streamlit
-PDF Parsing  : PyPDF2
-Data Handling: Pandas
-
----
+[ Upload Resume ]
+        ↓
+[ Extract Text ]
+        ↓
+[ NLP Processing ]
+        ↓
+[ Skill Detection ]
+        ↓
+[ Job Recommendation ]
+        ↓
+[ Resume Score ]
