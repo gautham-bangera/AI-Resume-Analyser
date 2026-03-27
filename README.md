@@ -30,28 +30,11 @@ It simulates real-world Applicant Tracking Systems (ATS) used by companies.
 
 ## 🧠 Tech Stack  
 
-```bash
+```text
 Language     : Python
 NLP Engine   : spaCy
 UI Framework : Streamlit
 PDF Parsing  : PyPDF2
 Data Handling: Pandas
-exit
 
-## 📂 Project Structure
-
-AI-Resume-Analyzer/
-│── app.py
-│── requirements.txt
-│
-├── utils/
-│   ├── parser.py
-│   ├── analyzer.py
-│   └── __init__.py
-│
-├── data/
-│   └── skills.csv
-│
-├── uploads/
-├── assets/
-│   └── style.css
+---
