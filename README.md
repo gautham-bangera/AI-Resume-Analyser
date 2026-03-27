@@ -41,3 +41,31 @@ It simulates real-world Applicant Tracking Systems (ATS) used by companies.
 [ Job Recommendation ]
         ↓
 [ Resume Score ]
+
+##📂 Project Structure
+
+AI-Resume-Analyzer/
+│── app.py
+│── requirements.txt
+│
+├── utils/
+│   ├── parser.py
+│   ├── analyzer.py
+│   └── __init__.py
+│
+├── data/
+│   └── skills.csv
+│
+├── uploads/
+├── assets/
+│   └── style.css
+
+##🚀 Installation & Setup
+
+git clone https://github.com/your-username/AI-Resume-Analyzer.git
+cd AI-Resume-Analyzer
+
+pip install -r requirements.txt
+python -m spacy download en_core_web_sm
+
+streamlit run app.py
