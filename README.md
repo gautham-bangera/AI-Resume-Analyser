@@ -1,15 +1,36 @@
-# AI Resume Analyzer
+# 🚀 AI Resume Analyzer — Smart Career Insights
 
-This project analyzes resumes using NLP and suggests job roles.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/NLP-spaCy-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Framework-Streamlit-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
+</p>
 
-## Features
-- Extract skills from PDF resume
-- Recommend job roles
-- Resume scoring
-- Simple UI with Streamlit
+---
 
-## Run Project
+## 📌 Overview  
+AI Resume Analyzer is an intelligent web application that uses Natural Language Processing (NLP) to analyze resumes, extract key skills, and recommend suitable job roles.  
 
-pip install -r requirements.txt  
-python -m spacy download en_core_web_sm  
-streamlit run app.py
+It simulates real-world Applicant Tracking Systems (ATS) used by companies.
+
+---
+
+## 🎯 Features  
+
+✨ Extract skills from PDF resumes  
+✨ Recommend job roles based on skills  
+✨ Resume scoring system  
+✨ Clean and interactive UI  
+✨ Fast and lightweight  
+
+---
+
+## 🧠 Tech Stack  
+
+```bash
+Language     : Python
+NLP Engine   : spaCy
+UI Framework : Streamlit
+PDF Parsing  : PyPDF2
+Data Handling: Pandas
