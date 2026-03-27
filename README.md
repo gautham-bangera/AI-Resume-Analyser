@@ -1,10 +1,13 @@
 # 🚀 AI Resume Analyzer — Smart Career Insights
 
+<!-- Animated Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/NLP-spaCy-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Framework-Streamlit-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=AI%20Resume%20Analyzer&fontSize=40&fontColor=ffffff"/>
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+Resume+Analyzer;NLP+Powered+Project;Skill+Extraction+%7C+Job+Recommendation;Built+with+Python+%26+Streamlit" />
 </p>
 
 ---
