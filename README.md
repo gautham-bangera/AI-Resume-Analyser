@@ -36,8 +36,7 @@ NLP Engine   : spaCy
 UI Framework : Streamlit
 PDF Parsing  : PyPDF2
 Data Handling: Pandas
-
----bash
+exit
 
 ## 📂 Project Structure
 
