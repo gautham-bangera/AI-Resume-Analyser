@@ -1,4 +1,3 @@
-# 🚀 AI Resume Analyzer — Smart Career Insights
 
 <!-- Animated Banner -->
 <p align="center">
