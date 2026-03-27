@@ -36,3 +36,19 @@ NLP Engine   : spaCy
 UI Framework : Streamlit
 PDF Parsing  : PyPDF2
 Data Handling: Pandas
+
+AI-Resume-Analyzer/
+│── app.py
+│── requirements.txt
+│
+├── utils/
+│   ├── parser.py
+│   ├── analyzer.py
+│   └── __init__.py
+│
+├── data/
+│   └── skills.csv
+│
+├── uploads/
+├── assets/
+│   └── style.css
