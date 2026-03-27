@@ -42,6 +42,8 @@ It simulates real-world Applicant Tracking Systems (ATS) used by companies.
         ↓
 [ Resume Score ]
 
+````
+
 ##📂 Project Structure
 
 AI-Resume-Analyzer/
