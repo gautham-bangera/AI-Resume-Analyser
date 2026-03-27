@@ -37,6 +37,8 @@ UI Framework : Streamlit
 PDF Parsing  : PyPDF2
 Data Handling: Pandas
 
+---bash
+
 ## 📂 Project Structure
 
 AI-Resume-Analyzer/
