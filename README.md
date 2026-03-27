@@ -44,7 +44,7 @@ It simulates real-world Applicant Tracking Systems (ATS) used by companies.
 
 ````
 
-##📂 Project Structure
+## 📂 Project Structure
 
 AI-Resume-Analyzer/
 │── app.py
@@ -62,7 +62,7 @@ AI-Resume-Analyzer/
 ├── assets/
 │   └── style.css
 
-##🚀 Installation & Setup
+## 🚀 Installation & Setup
 
 git clone https://github.com/your-username/AI-Resume-Analyzer.git
 cd AI-Resume-Analyzer
